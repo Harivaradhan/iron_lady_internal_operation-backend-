@@ -1,5 +1,5 @@
-Admin interface(frontend) project link- https://github.com/Harivaradhan/iron_lady-admin_interface
+Admin interface(frontend) project link- https://github.com/Harivaradhan/iron_lady-admin_interface-
 
-lead data submission form (frontend) project link - 
+lead data submission form (frontend) project link -  https://github.com/Harivaradhan/iron_lady_lead_information_form
 
 ## 🎥 project Video explanation - https://drive.google.com/file/d/1Ry-gq4EXZQY9wHT2CyqP4AJ9NpoWWLJ4/view?usp=sharing
